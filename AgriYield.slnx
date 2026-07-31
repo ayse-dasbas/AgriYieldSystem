@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AgriYield.Api/AgriYield.Api.csproj" />
+  <Project Path="AgriYield.Domain/AgriYield.Domain.csproj" />
+  <Project Path="AgriYield.Infrastructure/AgriYield.Infrastructure.csproj" />
+</Solution>
